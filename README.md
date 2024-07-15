@@ -1,2 +1,2 @@
 # Python-Project
-Peer-graded Assignment: As a data scientist working for an investment firm, you will extract the revenue data for Tesla and GameStop and build a dashboard to compare the price of the stock vs the revenue.
+I am sharing sharing  the Projects of Statistics for Data Science using Python course by IBM on Coursera which I have solved into my journey of Data Science.
